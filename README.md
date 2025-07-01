@@ -14,7 +14,7 @@ An interactive Power BI dashboard designed to analyze and visualize **HR Job Ope
 
 ## 📂 Dataset  
 
-📊 [**Download HR Job Openings Data (.csv)**](https://github.com/vinithasriprathipati/hr_job_openings_dashboard/raw/main/HR%20Job%20Openings%20data.csv)  
+📊 [**Download HR Job Openings Dataset (.zip)**](https://github.com/vinithasriprathipati/hr_job_openings_dashboard/raw/main/HR%20Job%20Openings%20data.csv?raw=true)  
 
 The dataset contains sample job openings information, including department-wise vacancies, job roles, locations, and recruitment trends.
 
